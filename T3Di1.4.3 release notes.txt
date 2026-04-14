@@ -1,0 +1,9 @@
+12 April 2026
+
+Parallel (multi-thread) version of the T3D executable is T3Di.1.4.3.exe. It runs much faster that the original version included in ASHTM. This version includes bug fixes and replaces version 1.4.1.
+
+Instructions:
+Download T3Di1.4.3.zip, extract the executable, rename it as T3D.exe, and copy over in the installation of ASHTM on your computer.
+The executable can be also used as standalone and runs from command prompt.
+
+Tom Perina
